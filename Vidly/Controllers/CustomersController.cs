@@ -54,10 +54,14 @@ namespace Vidly.Controllers
 
         public ActionResult New()
         {
+            //update
             return View();
         }
 
-
+        public ActionResult Update()
+        {
+            return View();
+        }
 
         #endregion
     }
