@@ -10,7 +10,7 @@ namespace Vidly.Models
     [Table("Customers", Schema = "Vidly")]
     public partial class Customer
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
 
         [Required]
         [MaxLength(50)]
@@ -23,6 +23,8 @@ namespace Vidly.Models
         public bool IsSubscribedForNewsLetter { get; set; }
 
         public MembershipType MembershipType { get; set; }
+
+        [Display(Name= "Membership Type")]
         public byte MembershipTypeId { get; set; }
     }
 }

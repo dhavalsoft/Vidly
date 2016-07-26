@@ -25,7 +25,7 @@ namespace Vidly.Controllers
             _context.Dispose();
         }
         #endregion
-        
+
         #region "Private Methods/Functions"
         private IEnumerable<Customer> GetCustomers()
         {
@@ -36,8 +36,8 @@ namespace Vidly.Controllers
         #endregion
 
         #region "Actions"
-                
-        
+
+
         // GET: Customers
         public ViewResult Index()
         {
@@ -55,12 +55,53 @@ namespace Vidly.Controllers
         public ActionResult New()
         {
             //update
-            return View();
+            var membershipTypes = _context.MembershipTypes.ToList();
+
+            CustomerFormViewModel viewModel = new CustomerFormViewModel
+            {
+                MembershipTypes = membershipTypes
+            };
+
+
+            return View("CustomerForm", viewModel);
         }
 
-        public ActionResult Update()
+        public ActionResult Edit(int id)
         {
-            return View();
+            var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+
+            if (customer == null)
+                return HttpNotFound();
+
+
+            var viewModel = new CustomerFormViewModel
+            {
+                Customer = customer,
+                MembershipTypes = _context.MembershipTypes.ToList()
+            };
+            return View("CustomerForm",viewModel);
+        }
+
+        [HttpPost]
+        public ActionResult Save(Customer customer)
+        {
+
+            if (customer.Id == null)
+            {
+                _context.Customers.Add(customer);
+            }
+            else {
+                var customertobeUpdated = _context.Customers.Single(c => c.Id == customer.Id);
+                customertobeUpdated.Name = customer.Name;
+                customertobeUpdated.DateofBirth = customer.DateofBirth;
+                customertobeUpdated.MembershipTypeId = customer.MembershipTypeId;
+                customertobeUpdated.IsSubscribedForNewsLetter = customer.IsSubscribedForNewsLetter;
+            }
+           
+            _context.SaveChanges();
+
+
+            return RedirectToAction("Index");
         }
 
         #endregion

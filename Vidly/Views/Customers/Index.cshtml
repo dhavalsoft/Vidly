@@ -16,6 +16,9 @@
         <table class="table table-striped">
             <thead>
                 <tr>
+                    <td colspan="4" class="text-right">@Html.ActionLink("Add New Customer", "New","Customers")</td>
+                </tr>
+                <tr>
                     <th>Id</th>
                     <th>Name</th>
                     <th>Membership Duration(In Months)</th>
@@ -26,7 +29,7 @@
                 @foreach (var customer in Model)
                 {
                     <tr>
-                        <td>@Html.ActionLink(customer.Id.ToString(), "Details", "Customers", new { id = customer.Id }, null)</td>
+                        <td>@Html.ActionLink(customer.Id.ToString(), "Edit", "Customers", new { id = customer.Id }, null)</td>
                         <td>@customer.Name</td>
                         <td>@customer.MembershipType.Name</td>
                         <td>@customer.MembershipType.Discount%</td>
