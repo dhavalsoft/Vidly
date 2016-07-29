@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>@if (Model.Customer == null)
+<h2>@if (Model.Customer.Id == null)
 {
    <text>New Customer</text>
 }
