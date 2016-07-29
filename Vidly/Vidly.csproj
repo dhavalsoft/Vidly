@@ -244,16 +244,38 @@
     <Compile Include="Migrations\201607221328416_AlterCustomerMovie.Designer.cs">
       <DependentUpon>201607221328416_AlterCustomerMovie.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201607271356504_UpdateMovie.cs" />
+    <Compile Include="Migrations\201607271356504_UpdateMovie.Designer.cs">
+      <DependentUpon>201607271356504_UpdateMovie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201607271359189_AddGenre.cs" />
+    <Compile Include="Migrations\201607271359189_AddGenre.Designer.cs">
+      <DependentUpon>201607271359189_AddGenre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201607271404485_AddMovies.cs" />
+    <Compile Include="Migrations\201607271404485_AddMovies.Designer.cs">
+      <DependentUpon>201607271404485_AddMovies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201607281335028_AddColumnNoOfDVDs.cs" />
+    <Compile Include="Migrations\201607281335028_AddColumnNoOfDVDs.Designer.cs">
+      <DependentUpon>201607281335028_AddColumnNoOfDVDs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201607281940068_NullableMemershipTypeId.cs" />
+    <Compile Include="Migrations\201607281940068_NullableMemershipTypeId.Designer.cs">
+      <DependentUpon>201607281940068_NullableMemershipTypeId.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="ViewModels\NewCustomerViewModel.cs" />
+    <Compile Include="ViewModels\CustomerFormViewModel.cs" />
+    <Compile Include="ViewModels\MovieFormViewModel.cs" />
     <Compile Include="ViewModels\RandomMovieViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -339,6 +361,7 @@
     <Content Include="Views\Customers\Details.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Customers\CustomerForm.cshtml" />
+    <Content Include="Views\Movies\MovieForm.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -381,6 +404,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201607221328416_AlterCustomerMovie.resx">
       <DependentUpon>201607221328416_AlterCustomerMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607271356504_UpdateMovie.resx">
+      <DependentUpon>201607271356504_UpdateMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607271359189_AddGenre.resx">
+      <DependentUpon>201607271359189_AddGenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607271404485_AddMovies.resx">
+      <DependentUpon>201607271404485_AddMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607281335028_AddColumnNoOfDVDs.resx">
+      <DependentUpon>201607281335028_AddColumnNoOfDVDs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607281940068_NullableMemershipTypeId.resx">
+      <DependentUpon>201607281940068_NullableMemershipTypeId.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

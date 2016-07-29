@@ -11,7 +11,7 @@ namespace Vidly.Models
     public class Movie
     {
 
-        public int Id { get; set; }
+        public int? Id { get; set; }
 
         [Required]
         [MaxLength(50)]
@@ -25,7 +25,11 @@ namespace Vidly.Models
         [MaxLength(50)]
         public string Director { get; set; }
 
+        public Genre Genre { get; set; }
+
         [Required]
-        public string Genre { get; set; }
+        public int GenreId { get; set; }
+
+        public int NoOfDVDs   { get; set; }
     }
 }
