@@ -264,6 +264,18 @@
     <Compile Include="Migrations\201607281940068_NullableMemershipTypeId.Designer.cs">
       <DependentUpon>201607281940068_NullableMemershipTypeId.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201607291808130_MembershipTypeIdRequired.cs" />
+    <Compile Include="Migrations\201607291808130_MembershipTypeIdRequired.Designer.cs">
+      <DependentUpon>201607291808130_MembershipTypeIdRequired.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608031244584_addcolumnAddress.cs" />
+    <Compile Include="Migrations\201608031244584_addcolumnAddress.Designer.cs">
+      <DependentUpon>201608031244584_addcolumnAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608031247477_updatecolumnAddress.cs" />
+    <Compile Include="Migrations\201608031247477_updatecolumnAddress.Designer.cs">
+      <DependentUpon>201608031247477_updatecolumnAddress.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -274,6 +286,7 @@
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="Validation\Min18YearsIfMember.cs" />
     <Compile Include="ViewModels\CustomerFormViewModel.cs" />
     <Compile Include="ViewModels\MovieFormViewModel.cs" />
     <Compile Include="ViewModels\RandomMovieViewModel.cs" />
@@ -419,6 +432,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201607281940068_NullableMemershipTypeId.resx">
       <DependentUpon>201607281940068_NullableMemershipTypeId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607291808130_MembershipTypeIdRequired.resx">
+      <DependentUpon>201607291808130_MembershipTypeIdRequired.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608031244584_addcolumnAddress.resx">
+      <DependentUpon>201608031244584_addcolumnAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608031247477_updatecolumnAddress.resx">
+      <DependentUpon>201608031247477_updatecolumnAddress.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

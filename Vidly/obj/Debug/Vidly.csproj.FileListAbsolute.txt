@@ -1,184 +1,28 @@
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\ApplicationInsights.config
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\csc.exe
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\vbc.exe
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.dll.config
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.pdb
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Web.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Owin.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Razor.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\WebGrease.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Razor.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.dll
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\desktop.ini
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\ApplicationInsights.config
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\csc.exe
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\vbc.exe
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\roslyn\desktop.ini
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.dll.config
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Vidly.pdb
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Web.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Owin.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Razor.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\WebGrease.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.Razor.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.dll
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\dpatel4\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\DhavalPatel\Google Drive\GoogleShared\.Net Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\ApplicationInsights.config
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csi.exe
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csi.rsp
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.AppContext.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\vbc.rsp
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Vidly.dll.config
@@ -218,12 +62,14 @@ D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\WebGrease.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
@@ -231,8 +77,6 @@ D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\EntityFramework.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
@@ -247,10 +91,7 @@ D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType1.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
@@ -259,134 +100,18 @@ D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDOBToCusto
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateDOBForCustomer.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateModel.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMoviesTable.resources
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csc.exe.config
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csc.rsp
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csi.exe
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\csi.rsp
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.AppContext.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\vbc.exe.config
-D:\Dhaval\Learning\Projects\Vidly\Vidly\bin\roslyn\vbc.rsp
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AlterCustomerMovie.resources
-D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\ApplicationInsights.config
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\csc.exe
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\csc.exe.config
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\csc.rsp
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\csi.exe
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\csi.rsp
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.AppContext.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.Collections.Immutable.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.IO.FileSystem.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\System.Reflection.Metadata.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\vbc.exe
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\vbc.exe.config
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\vbc.rsp
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\VBCSCompiler.exe
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\roslyn\VBCSCompiler.exe.config
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Vidly.dll.config
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Vidly.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Vidly.pdb
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Antlr3.Runtime.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\EntityFramework.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\EntityFramework.SqlServer.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.DependencyCollector.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.Web.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.WindowsServer.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.ApplicationInsights.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Google.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Newtonsoft.Json.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Owin.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Helpers.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Mvc.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Optimization.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Razor.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.Deployment.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.Razor.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\WebGrease.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Antlr3.Runtime.pdb
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.DependencyCollector.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.Web.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AI.WindowsServer.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.ApplicationInsights.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Newtonsoft.Json.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Helpers.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Mvc.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Optimization.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.Razor.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.Deployment.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\System.Web.WebPages.Razor.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\EntityFramework.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\EntityFramework.SqlServer.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Google.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType1.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.UpdateName_MembershipType.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AddDOBToCustomer.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.UpdateDOBForCustomer.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.UpdateModel.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AddMoviesTable.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.Migrations.AlterCustomerMovie.resources
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.dll
-D:\Dhaval\Learning\Projects\VidlyMVC\Vidly\obj\Debug\Vidly.pdb
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovie.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddColumnNoOfDVDs.resources
 D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.NullableMemershipTypeId.resources
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MembershipTypeIdRequired.resources
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.addcolumnAddress.resources
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.updatecolumnAddress.resources
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\Dhaval\Learning\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Dhaval\Learning\Github\Vidly\Vidly\bin\ApplicationInsights.config
 C:\Dhaval\Learning\Github\Vidly\Vidly\bin\roslyn\csc.exe
 C:\Dhaval\Learning\Github\Vidly\Vidly\bin\roslyn\csc.exe.config
@@ -496,6 +221,9 @@ C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resour
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddColumnNoOfDVDs.resources
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.NullableMemershipTypeId.resources
+C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.MembershipTypeIdRequired.resources
+C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.addcolumnAddress.resources
+C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.Migrations.updatecolumnAddress.resources
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Dhaval\Learning\Github\Vidly\Vidly\obj\Debug\Vidly.pdb

@@ -12,31 +12,42 @@
         <p>We don't have any customers</p>
     }
     else
-    {
-        <table class="table table-striped">
+    {<div class="row">
+        <table class="table table-bordered table-hover table-condensed">
             <thead>
                 <tr>
-                    <td colspan="4" class="text-right">@Html.ActionLink("Add New Customer", "New","Customers")</td>
+                    <td colspan="5" class="text-right" style="border:0px none">@Html.ActionLink("Add New Customer", "New", "Customers")</td>
                 </tr>
-                <tr>
-                    <th>Id</th>
+                <tr class="">
                     <th>Name</th>
+                    <th>Date of Birth</th>
                     <th>Membership Duration(In Months)</th>
                     <th>Discount Rate</th>
+                    <th>Newsletter?</th>
                 </tr>
             </thead>
             <tbody>
                 @foreach (var customer in Model)
                 {
                     <tr>
-                        <td>@Html.ActionLink(customer.Id.ToString(), "Edit", "Customers", new { id = customer.Id }, null)</td>
-                        <td>@customer.Name</td>
+                        <td>@Html.ActionLink(customer.Name, "Edit", "Customers", new { id = customer.Id }, null)</td>
+                        <td>@if (customer.DateofBirth != null)
+                            {
+                                @customer.DateofBirth.Value.ToShortDateString();
+                            }
+                        </td>
                         <td>@customer.MembershipType.Name</td>
                         <td>@customer.MembershipType.Discount%</td>
+                        <td class="text-center">@if (customer.IsSubscribedForNewsLetter == true)
+                        {
+                            <span class="glyphicon glyphicon-check"></span>
+                        }
+                        </td>
                     </tr>
                 }
             </tbody>
         </table>
+    </div>
     }
 
 </div>

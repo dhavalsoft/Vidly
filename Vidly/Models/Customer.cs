@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
+using Vidly.Validation;
 
 namespace Vidly.Models
 {
@@ -17,6 +18,7 @@ namespace Vidly.Models
         public string Name { get; set; }
 
         [Display(Name = "Date of Birth")]
+        [Min18YearsIfMember]
         public DateTime? DateofBirth { get; set; }
 
         [Required]
@@ -24,7 +26,11 @@ namespace Vidly.Models
 
         public MembershipType MembershipType { get; set; }
 
-        [Display(Name= "Membership Type")]
-        public byte? MembershipTypeId { get; set; }
+        [Required]
+        [Display(Name = "Membership Type")]
+        public byte MembershipTypeId { get; set; }
+
+        [MaxLength(50)]
+        public string Address { get; set; }
     }
 }
